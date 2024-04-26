@@ -1,4 +1,4 @@
-# html-<html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta <!DOCTYPE html>
@@ -28,8 +28,7 @@ http-equiv="X-UA-Compatible" content="IE=edge">
 </h1>
 <body>
     
-</body>
-</html>
+
 <!-- paragraphs -->
 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem,<strong>stop</strong> sed voluptates. Eius culpa alias ea voluptatem nulla natus iusto error sit assumenda explicabo! Soluta animi iure quisquam qui tempore! Quo.</p>
 <a href="https://www.paulding.k12.ga.us/Page/46003">shool Page</a>
@@ -37,11 +36,11 @@ http-equiv="X-UA-Compatible" content="IE=edge">
 <a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog">nationalgeographic</a>
 <a href="https://www.britannica.com/animal/cat">britannica</a>
 <a href="https://www.aqueon.com/articles/ways-to-know-your-fish-are-happy">aqueon</a>
-<img src="download.jpeg" alt="fox" height="100"><br>
-<img src="animal.jpeg" alt=""height="150"><br>
-<img src="solo.webp" alt=""height="150"><br>
-<img src="images.jpeg" alt=""height="150"><br>
-<img src="one.avif" alt=""height="100"><br>
+<img src="images/download.jpeg"fox" height="100"><br>
+<img src="images/animal.jpeg" alt=""height="150"><br>
+<img src="images/solo.webp" alt=""height="150"><br>
+<img src="images/images.jpeg" alt=""height="150"><br>
+<img src="images/one.avif" alt=""height="100"><br>
 <hr>
 <h1>Favorite sport</h1>
 <h2>football
@@ -74,3 +73,7 @@ http-equiv="X-UA-Compatible" content="IE=edge">
 <input type="submit"value="Submit">
 </form>
 <table></table>
+<h2>picture as link</h2>
+<a href="https://medium.com/@animejunctionapp/solo-leveling-anime-behind-the-scenes-of-its-meteoric-rise-in-popularity-1139e94a1e22"></a>
+</body>
+</html>
